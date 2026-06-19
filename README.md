@@ -16,10 +16,18 @@
   <p><b>Building in public</b> — slowly and deliberately.</p>
 </div>
 
-<br/>
+<h2 align="center">Socials</h2>
 
 <div align="center">
   <a href="https://x.com/MonkeEngineer">
     <img src="https://img.shields.io/badge/@MonkeEngineer-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
+</div>
+
+<h2 align="center">Tech Stack</h2>
+
+<h3 align="center">Programming Languages</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </div>
