@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MonkeEngineer/MonkeEngineer/master/header_final.jpg" width="100%"/>
-</div>
-
-<div align="center">
   <h1>MonkeEngineer</h1>
 </div>
 
 <div align="center">
   <p><b>Building in public</b> — slowly and deliberately.</p>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MonkeEngineer/MonkeEngineer/master/header_final.jpg" width="100%"/>
 </div>
 
 <h2 align="center">About Me</h2>
