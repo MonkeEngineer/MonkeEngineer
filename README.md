@@ -16,6 +16,16 @@
   <p><b>Building in public</b> — slowly and deliberately.</p>
 </div>
 
+<h2 align="center">What I'm Building</h2>
+
+<div align="center">
+  <a href="https://github.com/Knot-Forget/knot-forget">
+    <b>Knot Forget</b>
+  </a>
+  — a small, programmable, self-hostable core for events and reminders.<br/>
+  Developer-first. API-first. Own your data. <i>(in active development)</i>
+</div>
+
 <h2 align="center">Socials</h2>
 
 <div align="center">
